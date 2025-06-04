@@ -4,4 +4,6 @@ date: 2025-05-30
 ---
 
 Welcome
-is this thing on?
+to 
+skill 
+issue
